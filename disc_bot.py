@@ -1,3 +1,5 @@
+# A basic discord bot in Python to detect negative keywords & to warn users & encourage then to use more positive words.
+
 import discord
 import random
 from replit import db
