@@ -1,4 +1,4 @@
-
+// random C program in Python programs :)
 
 int n;
 int a[n];
